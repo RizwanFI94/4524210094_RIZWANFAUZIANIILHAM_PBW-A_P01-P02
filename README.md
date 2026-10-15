@@ -1,4 +1,4 @@
-# Praktikum PBW - Pertemuan 1-14
+# Praktikum PBW - Pertemuan 1-2
 
 ## Biodata Mahasiswa
 
