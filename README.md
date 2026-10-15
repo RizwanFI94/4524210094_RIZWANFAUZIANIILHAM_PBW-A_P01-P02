@@ -203,6 +203,13 @@ Melalui praktikum ini, beberapa materi dasar PHP yang dipelajari meliputi:
 9. **Validasi sederhana** — Menangani pembagian dengan nol dan operator tidak valid.
 10. **Output PHP dan HTML** — Menampilkan hasil pemrosesan data pada halaman web.
 
+## Hasil Running
+**Kalkulator**
+<img width="1920" height="1080" alt="image" src="https://github.com/RizwanFI94/4524210094_RIZWANFAUZIANIILHAM_PBW-A_P01-P02/blob/91163e7e1bcf0eae497029eee03925967e6e6130/img/SS%20Biodata.png" />
+
+**Biodata Pribadi**
+<img width="1920" height="1080" alt="image" src="https://github.com/RizwanFI94/4524210094_RIZWANFAUZIANIILHAM_PBW-A_P01-P02/blob/91163e7e1bcf0eae497029eee03925967e6e6130/img/SS%20Kalkulator.png" />
+
 ## 📜 Lisensi
 
 Project ini dibuat untuk keperluan pembelajaran dan penyelesaian tugas praktikum Pemrograman Berbasis Web.
